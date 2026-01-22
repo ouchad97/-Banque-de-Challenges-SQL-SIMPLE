@@ -99,64 +99,90 @@ INSERT INTO commande_produit (commande_id, produit_id, quantite) VALUES
 
 ## AVG
 1- Afficher le montant moyen des commandes.
+
 2- Afficher le prix moyen des produits.
+
 3- Afficher le montant moyen des commandes par client.
 
 ## SUM
 1- Afficher le total des ventes.
+
 2- Afficher le total des ventes par client.
+
 3- Afficher le chiffre d’affaires par ville.
 
 ## MAX / MIN
 1- Afficher le prix du produit le plus cher.
+
 2- Afficher le montant de la commande la moins chère.
+
 3- Afficher le montant maximum des commandes par client.
 
 ## GROUP BY
 1- Afficher le nombre de clients par ville.
+
 2- Afficher le nombre de commandes par client.
+
 3- Afficher le chiffre d’affaires par client.
 
 ## ORDER BY
 1- Afficher les produits classés par prix croissant.
+
 2- Afficher les commandes classées par date décroissante.
+
 3- Afficher les clients classés par chiffre d’affaires décroissant.
 
 ## HAVING
 1- Afficher les clients ayant passé plus d’une commande.
+
 2- Afficher les villes ayant plus de deux clients.
+
 3- Afficher les clients dont le chiffre d’affaires dépasse un seuil donné.
 
 ## JOIN
 1- Afficher les commandes avec le nom du client.
+
 2- Afficher les produits commandés avec leurs quantités.
+
 3- Afficher le détail des commandes (client, produit, quantité).
 
 ## INNER JOIN
 1- Afficher les clients ayant au moins une commande.
+
 2- Afficher les produits qui ont été commandés.
+
 3- Afficher le chiffre d’affaires par produit.
 
 ## LEFT JOIN
 1- Afficher tous les clients, même ceux sans commande.
 
 2- Afficher tous les produits, même ceux jamais commandés.
+
 3- Afficher les clients n’ayant passé aucune commande.
 
 ## RIGHT JOIN
 1- Afficher toutes les commandes, même sans client associé.
+
 2- Afficher toutes les lignes de commande avec leurs produits.
+
 3- Identifier les commandes sans client.
 
 ## CASE WHEN THEN
 1- Classer les commandes selon leur montant.
+
 2- Classer les produits selon leur gamme de prix.
+
 3- Classer les clients selon leur chiffre d’affaires.
 
 ## Challenges mixtes
 1- Afficher le nombre de commandes et le total des ventes par client.
+
 2- Afficher les produits jamais commandés.
+
 3- Afficher les clients ayant le panier moyen le plus élevé.
+
 4- Afficher le chiffre d’affaires par catégorie de produit.
+
 5- Afficher les trois meilleurs clients en chiffre d’affaires.
+
 6- Afficher les villes générant le plus de chiffre d’affaires.
