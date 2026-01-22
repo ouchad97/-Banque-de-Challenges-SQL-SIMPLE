@@ -94,7 +94,9 @@ INSERT INTO commande_produit (commande_id, produit_id, quantite) VALUES
 ```
 ## COUNT
 1- Afficher le nombre total de clients.
+
 2- Afficher le nombre total de commandes.
+
 3- Afficher le nombre de commandes par client.
 
 ## AVG
