@@ -139,6 +139,7 @@ INSERT INTO commande_produit (commande_id, produit_id, quantite) VALUES
 
 ## LEFT JOIN
 1- Afficher tous les clients, même ceux sans commande.
+
 2- Afficher tous les produits, même ceux jamais commandés.
 3- Afficher les clients n’ayant passé aucune commande.
 
